@@ -35,5 +35,4 @@ def hola_mundo():
     respuesta = {
         "mensaje": "hola mundo!"
     }
-
     return respuesta
